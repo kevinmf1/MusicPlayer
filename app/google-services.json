@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "620528850587",
+    "firebase_url": "https://music-player-fcfab-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "music-player-fcfab",
+    "storage_bucket": "music-player-fcfab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:620528850587:android:5bb07cb870637b1c2f183e",
+        "android_client_info": {
+          "package_name": "com.example.musicplayer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_1jNp7PvDJbG7Wst8VEtYJjgd3Ate-2U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
